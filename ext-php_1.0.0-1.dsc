@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-php deb admin optional arch=all
 Checksums-Sha1:
- b340c540fb21b8677226f3062a0501a6d535450f 456 ext-php_1.0.0.orig.tar.xz
+ b80d29e14ba83bd08a2c08905fb8d447a0ff4e36 456 ext-php_1.0.0.orig.tar.xz
  e61c1ae442fd40e98a2957866936c54f1d4f94ba 836 ext-php_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 583452498dcd1cc13d6e16397c384c294c6b4975b9552e498cc3c990d4632892 456 ext-php_1.0.0.orig.tar.xz
+ 60fa82c9422f90445eaf4dd72e81c6694c4de6ae520cb291ff4795d6a7e64f4d 456 ext-php_1.0.0.orig.tar.xz
  d54acb82a72548d1f028fae9068179dcc03c4f491a13135b205c7958389234fc 836 ext-php_1.0.0-1.debian.tar.xz
 Files:
- 670e5291cb0f995e67e44043eee49f36 456 ext-php_1.0.0.orig.tar.xz
+ c2dd18d7230efc62ce544c0783d435fb 456 ext-php_1.0.0.orig.tar.xz
  e6134a8130d5992f33e327c9b48099fd 836 ext-php_1.0.0-1.debian.tar.xz
